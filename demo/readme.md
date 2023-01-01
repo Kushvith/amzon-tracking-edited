@@ -1,4 +1,4 @@
-#developer tarun
+#developer kushvith
 
 make sure that you enter email adress and password correctly
 turn on the less secure apps in gmail
