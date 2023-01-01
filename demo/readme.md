@@ -1,5 +1,5 @@
-#developer kushvith
-
+#developer kushvith<br>
+<b> python and flask beautiful soup sql lite</b>
 make sure that you enter email adress and password correctly
 turn on the less secure apps in gmail
 enter the others email address because program must not crashed
